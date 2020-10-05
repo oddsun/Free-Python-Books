@@ -24,6 +24,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Building Skills in Python [[Download]](/book/Building%20Skills%20in%20Python.pdf)
 * Building Web Applications with Flask [[Download]](/book/Building%20Web%20Applications%20with%20Flask.pdf)
 * Cloud Native Python [[Download]](/book/Cloud%20Native%20Python.azw3)
+* Coding Games in Python [[Download]](/book/Coding%20Games%20in%20Python.pdf)
 * Computer Simulation - A Foundational Approach Using Python [[Download]](/book/Computer%20Simulation%20-%20A%20Foundational%20Approach%20Using%20Python.pdf)
 * Cracking Codes with Python - An Introduction to Building and Breaking Ciphers [[Download]](/book/Cracking%20Codes%20with%20Python%20-%20An%20Introduction%20to%20Building%20and%20Breaking%20Ciphers.epub)
 * Daniel Arbuckle's Mastering Python [[Download]](/book/Daniel%20Arbuckle%27s%20Mastering%20Python.epub)
